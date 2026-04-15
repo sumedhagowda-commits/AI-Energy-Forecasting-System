@@ -64,5 +64,5 @@ This system is similar to solutions used in:
 
 ---
 
-## 🏗️ Project Architecture
+
 
